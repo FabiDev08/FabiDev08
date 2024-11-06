@@ -6,3 +6,4 @@ I'm Fabian from Germany, a hobby developer specializing in game and web developm
 ## Skills and Experience
 * Godot (GD Script)
 * HTML, CSS, JS
+* Figma

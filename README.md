@@ -9,4 +9,4 @@ I'm Fabian from Germany, a hobby developer specializing in game and web developm
 * Figma
 
 ## Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FabiDev08&theme=graywhite)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FabiDev08&theme=graywhite&border_radius=0)

@@ -1,11 +1,12 @@
 ![GitHubBanner](https://github.com/user-attachments/assets/2162c71a-274b-46e2-807a-9cfdbbf386dc)
 
 ## About
-I'm Fabian from Germany, a hobby developer specializing in game and web development, with experience in tools like Godot, Unity, JavaScript, and HTML/CSS.
+I'm Fabian from Germany, a hobby developer specializing in game development and python, with experience in tools like Godot, Unity, Python, and HTML/CSS.
 
 ## Skills & Experience
 * Godot (GD Script)
-* HTML, CSS, JS
+* Python
+* HTML, CSS
 * Figma
 
 ## Stats

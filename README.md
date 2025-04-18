@@ -1,4 +1,4 @@
-![GitHubBanner](https://github.com/user-attachments/assets/2162c71a-274b-46e2-807a-9cfdbbf386dc)
+![GitHubBanner](https://github.com/user-attachments/assets/64a88b47-a51f-4b66-960d-227042f60183)
 
 ## About
 I'm Fabian from Germany, a hobby developer specializing in game development and python, with experience in tools like Godot, Unity, Python, and HTML/CSS.
